@@ -1,4 +1,4 @@
-# test_tableCovid
+# test_table
 
 #test task: getting data from API
 #used React, Redux, Redux-Saga, BootStrap5
